@@ -1,11 +1,11 @@
 {
   "name": "x7654356",
   "version": "0.0.1",
-  "module": "index.ts",
+  "module": "index.js",
   "type": "module",
   "private": true,
   "bin": {
-    "x7654356": "index.ts"
+    "x7654356": "index.js"
   },
   "devDependencies": {
     "@biomejs/biome": "2.3.7",
