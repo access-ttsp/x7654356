@@ -1,0 +1,14 @@
+{
+  "name": "x7654356",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@biomejs/biome": "2.3.7",
+    "@types/bun": "latest",
+    "ultracite": "6.3.5"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  }
+}
